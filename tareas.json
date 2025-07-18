@@ -1,0 +1,34 @@
+[
+    {
+        "tipo": "TareaRapida",
+        "titulo": "Resolver 10 ejercicios de Aritmetica",
+        "descripcion": "Resolver los 10 ejercicios con su procedimiento",
+        "fecha_limite": "2025-07-19",
+        "prioridad": "Media",
+        "completada": true
+    },
+    {
+        "tipo": "Examen",
+        "titulo": "Examen de Literatura",
+        "descripcion": "Examen de literatura",
+        "fecha_limite": "2025-07-20",
+        "prioridad": "Alta",
+        "completada": false
+    },
+    {
+        "tipo": "Proyecto",
+        "titulo": "Trabjo de equipo de R.V",
+        "descripcion": "Hacer una exposici\u00f3n grupal de un tema cualquiera",
+        "fecha_limite": "2025-07-25",
+        "prioridad": "alta",
+        "completada": false
+    },
+    {
+        "tipo": "TareaRapida",
+        "titulo": "10 ejercicios de R.M",
+        "descripcion": "Resolver los 10 ejercicios con su resoluci\u00f3n ",
+        "fecha_limite": "2025-07-18",
+        "prioridad": "Media",
+        "completada": false
+    }
+]
